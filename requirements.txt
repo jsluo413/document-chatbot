@@ -1,0 +1,9 @@
+python-dotenv
+chromadb
+langchain
+PyPDF2
+gradio==3.36.1
+openai
+pypdf
+langchainhub
+beautifulsoup4
